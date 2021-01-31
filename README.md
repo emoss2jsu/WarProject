@@ -40,6 +40,4 @@ There is not much to change in the project but if you wanted to ensure that the 
 
 Authors
 --------------------------------
-Framework designed by Prof. Jay Snellen.
-
-Worked on and edited by Earl Moss.
+Edited by Earl Moss.
